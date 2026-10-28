@@ -1,46 +1,56 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071410,45:124b39,100:0d261f&height=220&section=header&text=LUMINA%20INTERACTIVE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=39&desc=Software%20%7C%20Games%20%7C%20Digital%20Experiences&descAlignY=61&descSize=17" alt="Lumina Interactive" />
+<img src="https://raw.githubusercontent.com/luminainteractivebr/.github/main/assets/lumina-banner.svg" width="100%" alt="Lumina Interactive — identidade visual azul" />
 
-### Tecnologia, criação e experiências digitais.
+### Criamos o digital com propósito.
 
-A **Lumina Interactive** desenvolve projetos nas áreas de software, jogos, design e conteúdo digital.
+**Tecnologia, desenvolvimento, design e conteúdo reunidos em uma só empresa.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-luminainteractivebr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luminainteractivebr)
-[![Fundador](https://img.shields.io/badge/Fundador-Luan%20Vinicius-155b46?style=for-the-badge)](https://github.com/luanvdev)
+[![GitHub](https://img.shields.io/badge/GitHub-Lumina_Interactive-080B59?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luminainteractivebr)
+[![Fundador](https://img.shields.io/badge/Fundador-Luan_Vinicius-142B7D?style=for-the-badge)](https://github.com/luanvdev)
 
 </div>
 
----
+## A Lumina Interactive
 
-## Quem somos
+Fundada em **5 de fevereiro de 2026**, a **Lumina Interactive** surgiu da união de **Masters Studios** e **LP ESTUDIOS**, com o propósito de integrar conhecimentos de desenvolvimento, produção de patches e criação digital.
 
-Fundada em **5 de fevereiro de 2026**, a Lumina Interactive reúne iniciativas independentes voltadas ao desenvolvimento de produtos, experiências e conteúdo para o ambiente digital.
+A empresa reúne projetos próprios de software, jogos, identidade visual e audiovisual. Nossa atuação une execução técnica, design e experimentação para transformar ideias em produtos e experiências digitais.
 
-## Nossas áreas
+## Ecossistema Lumina
 
-| Unidade | Atuação |
+| Unidade | O que fazemos |
 | :--- | :--- |
-| **GMP Group** | Desenvolvimento e edição de patches para jogos. |
-| **Lumina Studio** | Software, design de interfaces, branding e soluções digitais. |
-| **Lince Sports** | Kits e recursos visuais para jogos de futebol. |
-| **LMI Sports** | Produção audiovisual e transmissões esportivas. |
+| **GMP Group** | Edição e desenvolvimento de patches de jogos, com foco em conteúdo, saves e texturas. |
+| **Lumina Studio** | Desenvolvimento de software, ferramentas, branding, UI/UX e projetos web. |
+| **Lince Sports** | Criação de kits e recursos gráficos para jogos de futebol. |
+| **LMI Sports** | Produção, cobertura e transmissões de conteúdo esportivo. |
 
-## Projetos
+## Projetos e iniciativas
 
-Os repositórios oficiais da Lumina Interactive serão reunidos nesta organização gradualmente.
+- **Patches e futebol digital:** projetos como LPFL, FMPES, Brazukas 26 e KMPES.
+- **Ferramentas e experiências digitais:** softwares, emuladores, aplicações e soluções web.
+- **Jogos e personalização:** evolução de interfaces e recursos para jogos.
+- **Design e audiovisual:** identidades, conteúdo e produção para as marcas do ecossistema.
 
-## Desenvolvimento e colaboração
+> Os repositórios serão organizados nesta conta institucional conforme cada projeto for disponibilizado.
 
-Usamos o GitHub para organizar código-fonte, acompanhar a evolução dos projetos e colaborar no desenvolvimento das nossas soluções.
+## Nossa organização no GitHub
 
----
+Este espaço concentra o código, a documentação e a evolução dos projetos oficiais da Lumina Interactive. Mantemos os trabalhos organizados por produto e unidade, com foco em qualidade e continuidade de desenvolvimento.
 
 <div align="center">
 
-**Lumina Interactive**  
-*Criando novas possibilidades no digital.*
+---
 
-Brasil · [Luan Vinicius](https://github.com/luanvdev)
+<img width="52" alt="Símbolo Lumina Interactive" src="https://raw.githubusercontent.com/luminainteractivebr/.github/main/assets/lumina-symbol.svg" />
+
+**LUMINA INTERACTIVE**
+
+**Fundador:** [Luan Vinicius](https://github.com/luanvdev)  
+**Origem:** Feira de Santana, Bahia — Brasil  
+**Contato:** luminaistudio@proton.me
+
+<sub>© 2026 Lumina Interactive</sub>
 
 </div>
