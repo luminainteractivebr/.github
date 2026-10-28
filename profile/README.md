@@ -28,7 +28,7 @@ A empresa reúne projetos próprios de software, jogos, identidade visual e audi
 
 ## Projetos e iniciativas
 
-- **Patches e futebol digital:** projetos como LPFL, FMPES, Brazukas 26 e KMPES.
+- **Patches e futebol digital:** desenvolvimento e edição de conteúdos para jogos de futebol, sob os projetos atuais da empresa.
 - **Ferramentas e experiências digitais:** softwares, emuladores, aplicações e soluções web.
 - **Jogos e personalização:** evolução de interfaces e recursos para jogos.
 - **Design e audiovisual:** identidades, conteúdo e produção para as marcas do ecossistema.
